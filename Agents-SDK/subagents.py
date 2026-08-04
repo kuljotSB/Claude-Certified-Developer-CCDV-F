@@ -88,7 +88,7 @@ LinkedIn product launch announcement.
                         print(block.text)
 
                     elif hasattr(block, "name"):
-                        print(f"\n🔧 Tool Used: {block.name}")
+                        print(f"\n Tool Used: {block.name}")
 
             elif isinstance(message, ResultMessage):
 
