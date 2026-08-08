@@ -1,0 +1,1968 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka Masala",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Stir Fry",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Spaghetti Carbonara #4",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chicken Tikka Masala #5",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Vegetable Stir Fry #6",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Spaghetti Carbonara #7",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chicken Tikka Masala #8",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Vegetable Stir Fry #9",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Spaghetti Carbonara #10",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Chicken Tikka Masala #11",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Vegetable Stir Fry #12",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Spaghetti Carbonara #13",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chicken Tikka Masala #14",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Vegetable Stir Fry #15",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Spaghetti Carbonara #16",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Chicken Tikka Masala #17",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Vegetable Stir Fry #18",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Spaghetti Carbonara #19",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Chicken Tikka Masala #20",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Vegetable Stir Fry #21",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Spaghetti Carbonara #22",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Chicken Tikka Masala #23",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Vegetable Stir Fry #24",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Spaghetti Carbonara #25",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Chicken Tikka Masala #26",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Vegetable Stir Fry #27",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Spaghetti Carbonara #28",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Chicken Tikka Masala #29",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Vegetable Stir Fry #30",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Spaghetti Carbonara #31",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Chicken Tikka Masala #32",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Vegetable Stir Fry #33",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Spaghetti Carbonara #34",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Chicken Tikka Masala #35",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Vegetable Stir Fry #36",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Spaghetti Carbonara #37",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Chicken Tikka Masala #38",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Vegetable Stir Fry #39",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Spaghetti Carbonara #40",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Chicken Tikka Masala #41",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Vegetable Stir Fry #42",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Spaghetti Carbonara #43",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Chicken Tikka Masala #44",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Vegetable Stir Fry #45",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Spaghetti Carbonara #46",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Chicken Tikka Masala #47",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Vegetable Stir Fry #48",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Spaghetti Carbonara #49",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Chicken Tikka Masala #50",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Vegetable Stir Fry #51",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Spaghetti Carbonara #52",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Chicken Tikka Masala #53",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Vegetable Stir Fry #54",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Spaghetti Carbonara #55",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Chicken Tikka Masala #56",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Vegetable Stir Fry #57",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Spaghetti Carbonara #58",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Chicken Tikka Masala #59",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Vegetable Stir Fry #60",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Spaghetti Carbonara #61",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Chicken Tikka Masala #62",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Vegetable Stir Fry #63",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Spaghetti Carbonara #64",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Chicken Tikka Masala #65",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Vegetable Stir Fry #66",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Spaghetti Carbonara #67",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Chicken Tikka Masala #68",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Vegetable Stir Fry #69",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Spaghetti Carbonara #70",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Chicken Tikka Masala #71",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Vegetable Stir Fry #72",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Spaghetti Carbonara #73",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Chicken Tikka Masala #74",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Vegetable Stir Fry #75",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Spaghetti Carbonara #76",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Chicken Tikka Masala #77",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Vegetable Stir Fry #78",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Spaghetti Carbonara #79",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Chicken Tikka Masala #80",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Vegetable Stir Fry #81",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Spaghetti Carbonara #82",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Chicken Tikka Masala #83",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Vegetable Stir Fry #84",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Spaghetti Carbonara #85",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Chicken Tikka Masala #86",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Vegetable Stir Fry #87",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Spaghetti Carbonara #88",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Chicken Tikka Masala #89",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Vegetable Stir Fry #90",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Spaghetti Carbonara #91",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Chicken Tikka Masala #92",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Vegetable Stir Fry #93",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Spaghetti Carbonara #94",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Chicken Tikka Masala #95",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Vegetable Stir Fry #96",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Spaghetti Carbonara #97",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Chicken Tikka Masala #98",
+    "description": "Grilled chicken pieces in a creamy tomato curry sauce.",
+    "ingredients": [
+      "500g chicken breast",
+      "150g yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion",
+      "400g canned tomatoes",
+      "100ml cream"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and tikka masala paste.",
+      "Grill chicken until cooked.",
+      "Fry onion, add tomatoes and cream.",
+      "Add grilled chicken to sauce and simmer.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Vegetable Stir Fry #99",
+    "description": "Mixed vegetables stir-fried in a savory sauce.",
+    "ingredients": [
+      "1 bell pepper",
+      "1 carrot",
+      "100g broccoli",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 garlic clove"
+    ],
+    "steps": [
+      "Chop all vegetables.",
+      "Heat sesame oil in a wok.",
+      "Add garlic and vegetables, stir-fry for 5 minutes.",
+      "Add soy sauce and cook for 2 more minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Spaghetti Carbonara #100",
+    "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g parmesan cheese",
+      "Black pepper"
+    ],
+    "steps": [
+      "Cook spaghetti according to package instructions.",
+      "Fry pancetta until crisp.",
+      "Beat eggs and mix with grated parmesan.",
+      "Combine spaghetti, pancetta, and egg mixture.",
+      "Season with black pepper and serve."
+    ]
+  }
+]
