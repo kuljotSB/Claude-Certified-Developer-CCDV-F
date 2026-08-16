@@ -14,6 +14,4 @@ The project should follow these requirements:
 • Validate request data using Pydantic
 • Explain important implementation decisions when generating code
 • Ask for clarification whenever requirements are ambiguous
-
-Generate a well-structured CLAUDE.md file for this project.
 ```
